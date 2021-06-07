@@ -1,4 +1,4 @@
-# composition-vs-options
+# Composition Vs Options API Tutorial
 
 ## Project setup
 ```
